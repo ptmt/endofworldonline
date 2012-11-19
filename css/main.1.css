@@ -63,34 +63,56 @@ h2 {font-weight:bold; font-size:1.2em; margin:4em 0 0}
 
 .apocalypse-container {  width: 1024px;height: 768px;position:relative;}
 
-.full {position: absolute; width: 100%; height: 100%; z-index: 1;-webkit-transition: opacity .5s linear;}
-.zone {position: absolute; -webkit-transition: opacity 1s linear; height:100%; }
+.full {position: absolute; width: 100%; height: 100%; z-index: 3;-webkit-transition: opacity .5s linear;}
+.zone {position: absolute; z-index: 2;-webkit-transition: opacity .5s linear; height:100%; }
 
-.apocalypse-container:hover .zone {  opacity: 0; -webkit-transition: opacity 1s ease; }
+/*.apocalypse-container:hover .zone {  opacity: 0; -webkit-transition: opacity .5s ease; }*/
 
-.image1 {background-image: url("../img/1.jpg");background-color:black; }
-.image2 {background-image: url("../img/2.jpg");background-color:black; }
-.image3 {background-image: url("../img/3.jpg");background-color:black; }
+.zone.image1 { z-index:3;width: 341px; left: 0;background: black url("../img/1.jpg") no-repeat 0 0;}
+.zone.image2 { z-index:2;width: 682px; left: 0;background: black url("../img/2.jpg") no-repeat 0 0;}
+.zone.image3 { z-index:1;width: 342px; left: 681px;background: black url("../img/3.jpg") no-repeat 80% 0;}
 
-.zone.image1 { z-index:3;width: 341px; left: 0;background-position: 0 0;}
-.zone.image2 { z-index:2;width: 682px; left: 0;background-position: 0 0;}
-.zone.image3 { z-index:1;width: 342px; left: 681px;background-position: 80% 0;}
+.full.image1 {background: url("../img/1.jpg");}
+.full.image2 {background: url("../img/2.jpg");}
+.full.image3 {background: url("../img/3.jpg");}
 
-.zone.image1:hover ~ .full.image2, .zone.image1:hover ~ .full.image3 {  display: none; }
-.zone.image2:hover ~ .full.image1, .zone.image2:hover ~ .full.image3 {  display: none; }
-.zone.image3:hover ~ .full.image1, .zone.image3:hover ~ .full.image2 {  display: none; }
+/*
+.window1:hover ~ .image2, .window1:hover ~ .image3 {  display: none; }
+.window2:hover ~ .image1, .window2:hover ~ .image3 {  display: none; }
+.window3:hover ~ .image1, .window3:hover ~ .image2 {  display: none; }
+*/
 
 .invite-form {top: -259px;padding: 5px;position:relative; width: 500px; z-index:10; margin: 0 auto; background-color: black;opacity: .9;
-    -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.3),0 -1px 0 rgba(255, 255, 255, 0.8),0 4px 10px rgba(0, 0, 0, 0.6);
-    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.3),0 -1px 0 rgba(39, 39, 39, 0.8),0 4px 10px rgba(0, 0, 0, 0.6);}
+-webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.3),0 -1px 0 rgba(255, 255, 255, 0.8),0 4px 10px rgba(0, 0, 0, 0.6);
+box-shadow: 0 1px 0 rgba(0, 0, 0, 0.3),0 -1px 0 rgba(39, 39, 39, 0.8),0 4px 10px rgba(0, 0, 0, 0.6);}
 
 .btn { padding: 4px 12px;line-height: 20px;text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);background-color: whiteSmoke;border: 1px solid #BBB;border-radius: 4px;}
 .notice {font-size:14px} 
-.logo {float:left}
-
 footer {font-size:14px;padding:10px;}
 footer a {color:#E8E8E8;}
 
+/*
+alternate CSS3 versions: 
+
+.image-wrapper:hover li:not(:hover) { opacity: 0.0;transition:all 0.5s linear; -webkit-transition:all 0.5s linear;-moz-transition:all 0.5s linear;-o-transition:all 0.5s linear;}
+li:hover { 	left:0;background-position:0 0; transition:all 0.5s linear;-webkit-transition:all 0.5s linear;-moz-transition:all 0.5s linear;-o-transition:all 0.5s linear;}*/
+
+/*
+
+.window1 { width: 341px; left: 0;background: black url("../img/1.jpg") no-repeat 0 0;}
+.window2 { width: 341px; left: 341px;background: black url("../img/2.jpg") no-repeat 30% 0;}
+.window3 { width: 342px; left: 681px;background: black url("../img/3.jpg") no-repeat 80% 0;}
+
+.image1 {background: url("../img/1.jpg");}
+.image2 {background: url("../img/2.jpg");}
+.image3 {background: url("../img/3.jpg");}
+
+
+.window1:hover ~ .image2, .window1:hover ~ .image3 {  display: none; }
+.window2:hover ~ .image1, .window2:hover ~ .image3 {  display: none; }
+.window3:hover ~ .image1, .window3:hover ~ .image2 {  display: none; }
+
+*/
 
 /* ==========================================================================
    Media Queries
