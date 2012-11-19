@@ -52,11 +52,14 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-body {background: black;font-family: "Segoe UI", Sans-Serif;color: #fff;}
-h1 {font-color:#E8E8E8;font-weight:normal;font-size: 1.5em;line-height: 1;}
+body {background: black;font-family: "Segoe UI", Sans-Serif;color: ;text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.2);}
+h1 {color:#E8E8E8;font-weight:normal;font-size: 1.5em;line-height: 1;}
+a { color:#E8E8E8;}
+a:hover {color:#D9D9D9}
+
 h2 {font-weight:bold; font-size:1.2em; margin:4em 0 0}
 
-.hero { margin: 0px auto; border: 1px solid #2E2D2E;  width: 1024px; position:relative;text-align: center;}
+.hero { margin: 0 auto;  width: 1024px; position:relative;text-align: center;}
 
 .apocalypse-container { display:none; width: 1024px;height: 768px;position:relative;}
 
@@ -80,10 +83,15 @@ h2 {font-weight:bold; font-size:1.2em; margin:4em 0 0}
 .window2:hover ~ .image1, .window2:hover ~ .image3 {  display: none; }
 .window3:hover ~ .image1, .window3:hover ~ .image2 {  display: none; }
 
-.invite-form {top:70%; position:absolute; width: 600px; z-index:10; margin: 0px auto; background: }
+.invite-form {top: -259px;padding: 5px;position:relative; width: 500px; z-index:10; margin: 0 auto; background-color: black;opacity: .9;
+-webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.3),0 -1px 0 rgba(255, 255, 255, 0.8),0 4px 10px rgba(0, 0, 0, 0.6);
+box-shadow: 0 1px 0 rgba(0, 0, 0, 0.3),0 -1px 0 rgba(39, 39, 39, 0.8),0 4px 10px rgba(0, 0, 0, 0.6);}
 
-.btn { padding: 4px 12px;line-height: 20px;cursor: pointer;text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);background-color: whiteSmoke;border: 1px solid #BBB;border-radius: 4px;}
-    
+.btn { padding: 4px 12px;line-height: 20px;text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);background-color: whiteSmoke;border: 1px solid #BBB;border-radius: 4px;}
+.notice {font-size:14px} 
+footer{font-size:12px;}
+footer a {color:#E8E8E8;}
+
 /*
 alternate version: 
 
@@ -101,7 +109,9 @@ li:hover { 	left:0;background-position:0 0; transition:all 0.5s linear;-webkit-t
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5),
        only screen and (min-resolution: 144dpi) {
-
+           
+    .full { display:none; }
+    
 }
 
 /* ==========================================================================
