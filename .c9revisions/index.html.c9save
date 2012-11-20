@@ -230,3 +230,6 @@
 {"ts":1353430499341,"patch":[[{"diffs":[[0,"lypse co"],[1,"ming soon"],[0,"Wait a l"]],"start1":6209,"start2":6209,"length1":16,"length2":25}]],"length":6627,"saved":false}
 {"ts":1353430503296,"patch":[[{"diffs":[[0,"soon"],[-1,"Wait a little"],[0,", bu"]],"start1":6222,"start2":6222,"length1":21,"length2":8}]],"length":6614,"saved":false}
 {"ts":1353430506843,"patch":[[{"diffs":[[0,"u can't "],[1,"wait "],[0,"— go to "]],"start1":6237,"start2":6237,"length1":16,"length2":21}]],"length":6619,"saved":false}
+{"ts":1353430877622,"patch":[[{"diffs":[[0,"uccess\")"],[1," Ю"],[0,")\r\n     "]],"start1":6111,"start2":6111,"length1":16,"length2":18}]],"length":6621,"saved":false}
+{"ts":1353430878747,"patch":[[{"diffs":[[0,"s\") "],[-1,"Ю"],[1," >"],[0,")\r\n "]],"start1":6116,"start2":6116,"length1":9,"length2":10}]],"length":6622,"saved":false}
+{"ts":1353430879759,"patch":[[{"diffs":[[0,"ess\")  >"],[1," 0"],[0,")\r\n     "]],"start1":6114,"start2":6114,"length1":16,"length2":18}]],"length":6624,"saved":false}
