@@ -34,15 +34,15 @@
             
             </div>
             
-            <div class="invite-form">
-                <h1>If the end of the world happens,<br/> at least we <a href="#howitworks">can watch</a> it.</h1>                
-                <p>
+            <div class="invite-form">                
+                <div id="form-inner">
+                    <h1>If the end of the world happens,<br/> at least we <a href="#howitworks">can watch</a> it.</h1>                
                     <!-- we use php at a front end servers only for this form --> 
                     <form action="add.php" method="GET">
                         <input type="textbox" name="email" class="btn" placeholder="Your email..."/>
                         <input type="submit" value="Subscribe to The End" class="btn"/>
                     </form>
-                </p>
+                </div>
                 <p class="notice">It's free without guarantee. If you want receive immediately and priority support we recommend you to <a href="mailto:in@phinitive.com">contact us</a> and get a paid account now.</p>
             </div>            
             
@@ -101,6 +101,12 @@
         </div>
         
         <footer>&copy; 2012 — Badaboom&trade; Global Systems <a href="http://phinitive.com">&infin;</a></footer>
+        
+        <script type="text/javascript">
+            /* pretty simple for invite */
+            if (window.location.href.search("message=success"))
+                document.getElementById("form-inner").innerHTML = "<h1>Thank you. Apocalypse coming soon, but if you can't wait — go to Russia right now.</h1>";
+        </script>
         <!--
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.8.2.min.js"><\/script>')</script>
