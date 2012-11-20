@@ -37,8 +37,11 @@
             <div class="invite-form">
                 <h1>If the end of the world happens,<br/> at least we <a href="#howitworks">can watch</a> it.</h1>                
                 <p>
-                    <input type="textbox" name="invite_to_email" class="btn" placeholder="Your email..."/>
-                    <input type="submit" value="Subscribe to The End" class="btn"/>
+                    <!-- we use php at a front end servers only for this form --> 
+                    <form action="add.php" method="GET">
+                        <input type="textbox" name="email" class="btn" placeholder="Your email..."/>
+                        <input type="submit" value="Subscribe to The End" class="btn"/>
+                    </form>
                 </p>
                 <p class="notice">It's free without guarantee. If you want receive immediately and priority support we recommend you to <a href="mailto:in@phinitive.com">contact us</a> and get a paid account now.</p>
             </div>            
