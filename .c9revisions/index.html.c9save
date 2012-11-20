@@ -156,3 +156,4 @@
 {"ts":1353408709060,"patch":[[{"diffs":[[0," if "],[1,"Ear"],[0,"th"],[-1,"e"],[0," w"],[-1,"orld stay here"],[1,"ill remain in a right orbit"],[0,".</p"]],"start1":3453,"start2":3453,"length1":27,"length2":42}]],"length":6051,"saved":false}
 {"ts":1353408731723,"patch":[[{"diffs":[[0,"rse, if "],[1,"planet "],[0,"Earth wi"]],"start1":3449,"start2":3449,"length1":16,"length2":23}]],"length":6058,"saved":false}
 {"ts":1353408815263,"patch":[[{"diffs":[[0,"ourse, i"],[-1,"f"],[1,"n case"],[0," planet "]],"start1":3447,"start2":3447,"length1":17,"length2":22}]],"length":6063,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1353419319423,"patch":[[{"diffs":[[0,"tn\" "],[-1,"value=\"y"],[1,"placeholder=\"Y"],[0,"our "]],"start1":1480,"start2":1480,"length1":16,"length2":22}]],"length":6069,"saved":false}
