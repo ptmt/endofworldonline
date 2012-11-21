@@ -74,10 +74,14 @@ a:hover {color:#D9D9D9}
 .image1 {background-image: url("../img/1.jpg");background-color:black; }
 .image2 {background-image: url("../img/2.jpg");background-color:black; }
 .image3 {background-image: url("../img/3.jpg");background-color:black; }
-
+/*
 .zone.image1 { z-index:3;width: 341px; left: 0;background-position: 0 0;}
 .zone.image2 { z-index:2;width: 682px; left: 0;background-position: 0 0;}
 .zone.image3 { z-index:1;width: 342px; left: 681px;background-position: 80% 0;}
+*/
+.zone.image1 { z-index:3;width: 33.3%; left: 0;background-position: 0 0;}
+.zone.image2 { z-index:2;width: 66.6%; left: 0;background-position: 0 0;}
+.zone.image3 { z-index:1;width: 33.3%; left: 66.6%;background-position: 80% 0;}
 
 .zone.image1:hover ~ .full.image2, .zone.image1:hover ~ .full.image3 {  display: none; }
 .zone.image2:hover ~ .full.image1, .zone.image2:hover ~ .full.image3 {  display: none; }
@@ -121,12 +125,12 @@ footer a {color:#E8E8E8;}
    ========================================================================== */
 
 @media only screen and (max-width: 1024px) {
-    .container {width:100%;}
+    .container, footer, .apocalypse-container {width:100%;}
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5),
        only screen and (min-resolution: 144dpi) {      
-    .container {width:100%;}
+    .container, footer, .apocalypse-container {width:100%;}
     
 }
 

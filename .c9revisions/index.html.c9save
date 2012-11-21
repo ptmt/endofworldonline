@@ -233,3 +233,72 @@
 {"ts":1353430877622,"patch":[[{"diffs":[[0,"uccess\")"],[1," Ю"],[0,")\r\n     "]],"start1":6111,"start2":6111,"length1":16,"length2":18}]],"length":6621,"saved":false}
 {"ts":1353430878747,"patch":[[{"diffs":[[0,"s\") "],[-1,"Ю"],[1," >"],[0,")\r\n "]],"start1":6116,"start2":6116,"length1":9,"length2":10}]],"length":6622,"saved":false}
 {"ts":1353430879759,"patch":[[{"diffs":[[0,"ess\")  >"],[1," 0"],[0,")\r\n     "]],"start1":6114,"start2":6114,"length1":16,"length2":18}]],"length":6624,"saved":false}
+{"contributors":[],"silentsave":true,"ts":1353463400638,"patch":[[{"diffs":[[0,"ers work"],[-1,"ed"],[1,"ing"],[0," at GNU "]],"start1":3964,"start2":3964,"length1":18,"length2":19}]],"length":6625,"saved":false}
+{"ts":1353463423591,"patch":[[{"diffs":[[0,"iders Amazon AWS"],[1,"&trade;"],[0," and Windows Azu"]],"start1":3906,"start2":3906,"length1":32,"length2":39},{"diffs":[[0,"ws Azure"],[1,"&"],[0,". \r\n    "]],"start1":3939,"start2":3939,"length1":16,"length2":17}]],"length":6633,"saved":false}
+{"ts":1353463426584,"patch":[[{"diffs":[[0,"s Azure&"],[1,"trade;"],[0,". \r\n    "]],"start1":3940,"start2":3940,"length1":16,"length2":22}]],"length":6639,"saved":false}
+{"ts":1353463442626,"patch":[[{"diffs":[[0,"main in "],[-1,"a"],[1,"the"],[0," right o"]],"start1":3697,"start2":3697,"length1":17,"length2":19}]],"length":6641,"saved":false}
+{"ts":1353463473365,"patch":[[{"diffs":[[0,"    "],[-1,"Servers"],[1,"Infrast"],[0," wor"]],"start1":3972,"start2":3972,"length1":15,"length2":15}]],"length":6641,"saved":false}
+{"ts":1353463474517,"patch":[[{"diffs":[[0," Infrast"],[1,"ruc"],[0," working"]],"start1":3975,"start2":3975,"length1":16,"length2":19}]],"length":6644,"saved":false}
+{"ts":1353463475864,"patch":[[{"diffs":[[0,"frastruc"],[1,"ture"],[0," working"]],"start1":3978,"start2":3978,"length1":16,"length2":20}]],"length":6648,"saved":false}
+{"ts":1353463481621,"patch":[[{"diffs":[[0,"ructure "],[1,"based on  "],[0,"working "]],"start1":3983,"start2":3983,"length1":16,"length2":26}]],"length":6658,"saved":false}
+{"ts":1353463484501,"patch":[[{"diffs":[[0," on "],[-1," working at "],[0,"GNU "]],"start1":3996,"start2":3996,"length1":20,"length2":8}]],"length":6646,"saved":false}
+{"ts":1353463493168,"patch":[[{"diffs":[[0,"NU Linux"],[1,", "],[0," and app"]],"start1":4001,"start2":4001,"length1":16,"length2":18}]],"length":6648,"saved":false}
+{"ts":1353463497901,"patch":[[{"diffs":[[0,"U Linux,"],[1," CDN,"],[0,"  and ap"]],"start1":4002,"start2":4002,"length1":16,"length2":21}]],"length":6653,"saved":false}
+{"ts":1353463498985,"patch":[[{"diffs":[[0,"nux,"],[-1," CDN,"],[0,"  an"]],"start1":4006,"start2":4006,"length1":13,"length2":8}]],"length":6648,"saved":false}
+{"ts":1353463516852,"patch":[[{"diffs":[[0,"    "],[-1,"Infrastructure based on GNU Linux,  and a"],[1,"A"],[0,"ppli"]],"start1":3972,"start2":3972,"length1":49,"length2":9}]],"length":6608,"saved":false}
+{"ts":1353463524638,"patch":[[{"diffs":[[0,"nstances"],[1," and "],[0,". If all"]],"start1":4018,"start2":4018,"length1":16,"length2":21}]],"length":6613,"saved":false}
+{"ts":1353463528991,"patch":[[{"diffs":[[0,"ces and "],[1,"connected"],[0,". If all"]],"start1":4023,"start2":4023,"length1":16,"length2":25}]],"length":6622,"saved":false}
+{"ts":1353463532068,"patch":[[{"diffs":[[0,"ces and "],[1,"it "],[0,"connecte"]],"start1":4023,"start2":4023,"length1":16,"length2":19}]],"length":6625,"saved":false}
+{"ts":1353463552518,"patch":[[{"diffs":[[0," it "],[-1,"connect"],[1,"serv"],[0,"ed"],[1," "],[0,". If"]],"start1":4030,"start2":4030,"length1":17,"length2":15}]],"length":6623,"saved":false}
+{"ts":1353463556272,"patch":[[{"diffs":[[0," served "],[1,"serveral load bala"],[0,". If all"]],"start1":4033,"start2":4033,"length1":16,"length2":34}]],"length":6641,"saved":false}
+{"ts":1353463558862,"patch":[[{"diffs":[[0,"oad bala"],[1,"ncers"],[0,". If all"]],"start1":4051,"start2":4051,"length1":16,"length2":21}]],"length":6646,"saved":false}
+{"ts":1353463567087,"patch":[[{"diffs":[[0,"stances "],[1,"with "],[0,"and it s"]],"start1":4019,"start2":4019,"length1":16,"length2":21}]],"length":6651,"saved":false}
+{"ts":1353463568113,"patch":[[{"diffs":[[0,"ances wi"],[-1,"t"],[1,"c"],[0,"h and it"]],"start1":4021,"start2":4021,"length1":17,"length2":17}]],"length":6651,"saved":false}
+{"ts":1353463569335,"patch":[[{"diffs":[[0,"ances wi"],[-1,"ch"],[0," and it "]],"start1":4021,"start2":4021,"length1":18,"length2":16}]],"length":6649,"saved":false}
+{"ts":1353463573432,"patch":[[{"diffs":[[0,"ances wi"],[1,"ch "],[0," and it "]],"start1":4021,"start2":4021,"length1":16,"length2":19}]],"length":6652,"saved":false}
+{"ts":1353463597013,"patch":[[{"diffs":[[0,"tances w"],[1,"h"],[0,"ich  and"]],"start1":4020,"start2":4020,"length1":16,"length2":17}]],"length":6653,"saved":false}
+{"ts":1353463598621,"patch":[[{"diffs":[[0," which  "],[1," "],[0,"and it s"]],"start1":4026,"start2":4026,"length1":16,"length2":17}]],"length":6654,"saved":false}
+{"ts":1353463602673,"patch":[[{"diffs":[[0,"s which "],[1,"could "],[0,"  and it"]],"start1":4025,"start2":4025,"length1":16,"length2":22}]],"length":6660,"saved":false}
+{"ts":1353463603681,"patch":[[{"diffs":[[0,"h could "],[1,"dra"],[0,"  and it"]],"start1":4031,"start2":4031,"length1":16,"length2":19}]],"length":6663,"saved":false}
+{"ts":1353463605525,"patch":[[{"diffs":[[0,"ould dra"],[1,"mattic"],[0,"  and it"]],"start1":4034,"start2":4034,"length1":16,"length2":22}]],"length":6669,"saved":false}
+{"ts":1353463607173,"patch":[[{"diffs":[[0,"ramattic"],[1,"ly "],[0,"  and it"]],"start1":4040,"start2":4040,"length1":16,"length2":19}]],"length":6672,"saved":false}
+{"ts":1353463611967,"patch":[[{"diffs":[[0,"atticly "],[1,"auto"],[0,"  and it"]],"start1":4043,"start2":4043,"length1":16,"length2":20}]],"length":6676,"saved":false}
+{"ts":1353463616574,"patch":[[{"diffs":[[0,"cly auto"],[1,"deployed into m"],[0,"  and it"]],"start1":4047,"start2":4047,"length1":16,"length2":31}]],"length":6691,"saved":false}
+{"ts":1353463618410,"patch":[[{"diffs":[[0,"d into m"],[1,"uch more"],[0,"  and it"]],"start1":4062,"start2":4062,"length1":16,"length2":24}]],"length":6699,"saved":false}
+{"ts":1353463622857,"patch":[[{"diffs":[[0,"h more  "],[1," "],[0,"and it s"]],"start1":4072,"start2":4072,"length1":16,"length2":17}]],"length":6700,"saved":false}
+{"ts":1353463626240,"patch":[[{"diffs":[[0,"ch more "],[1,"serv"],[0,"  and it"]],"start1":4071,"start2":4071,"length1":16,"length2":20}]],"length":6704,"saved":false}
+{"ts":1353463627855,"patch":[[{"diffs":[[0,"ore serv"],[1,"ers"],[0,"  and it"]],"start1":4075,"start2":4075,"length1":16,"length2":19}]],"length":6707,"saved":false}
+{"ts":1353463630138,"patch":[[{"diffs":[[0," servers"],[1,"."],[0,"  and it"]],"start1":4078,"start2":4078,"length1":16,"length2":17}]],"length":6708,"saved":false}
+{"ts":1353463636270,"patch":[[{"diffs":[[0,"rs. "],[-1," and it served serveral l"],[1,"We have "],[0,"oad "]],"start1":4084,"start2":4084,"length1":33,"length2":16}]],"length":6691,"saved":false}
+{"ts":1353463639749,"patch":[[{"diffs":[[0,"We have "],[1,"a se"],[0,"oad bala"]],"start1":4088,"start2":4088,"length1":16,"length2":20}]],"length":6695,"saved":false}
+{"ts":1353463643148,"patch":[[{"diffs":[[0,"ave a se"],[1,"veral l"],[0,"oad bala"]],"start1":4092,"start2":4092,"length1":16,"length2":23}]],"length":6702,"saved":false}
+{"ts":1353463657149,"patch":[[{"diffs":[[0,"alancers"],[1," in di"],[0,". If all"]],"start1":4112,"start2":4112,"length1":16,"length2":22}]],"length":6708,"saved":false}
+{"ts":1353463658729,"patch":[[{"diffs":[[0,"rs in di"],[1,"ffir"],[0,". If all"]],"start1":4118,"start2":4118,"length1":16,"length2":20}]],"length":6712,"saved":false}
+{"ts":1353463661654,"patch":[[{"diffs":[[0,"n diffir"],[1,"ent data ce"],[0,". If all"]],"start1":4122,"start2":4122,"length1":16,"length2":27}]],"length":6723,"saved":false}
+{"ts":1353463663338,"patch":[[{"diffs":[[0," data ce"],[1,"nters"],[0,". If all"]],"start1":4133,"start2":4133,"length1":16,"length2":21}]],"length":6728,"saved":false}
+{"ts":1353463666289,"patch":[[{"diffs":[[0,"ent data"],[-1," "],[0,"centers."]],"start1":4130,"start2":4130,"length1":17,"length2":16}]],"length":6727,"saved":false}
+{"ts":1353463689795,"patch":[[{"diffs":[[0,"om runs "],[-1,"at"],[1,"on"],[0," the mos"]],"start1":3873,"start2":3873,"length1":18,"length2":18}]],"length":6727,"saved":false}
+{"ts":1353463709183,"patch":[[{"diffs":[[0,"roviders"],[1,":"],[0," Amazon "]],"start1":3905,"start2":3905,"length1":16,"length2":17}]],"length":6728,"saved":false}
+{"ts":1353463712761,"patch":[[{"diffs":[[0," used cloud "],[1,"computing "],[0,"providers: A"]],"start1":3892,"start2":3892,"length1":24,"length2":34}]],"length":6738,"saved":false}
+{"ts":1353463718972,"patch":[[{"diffs":[[0,"ost "],[-1,"used"],[1,"popular"],[0," clo"]],"start1":3889,"start2":3889,"length1":12,"length2":15}]],"length":6741,"saved":false}
+{"ts":1353463734467,"patch":[[{"diffs":[[0,"amat"],[-1,"t"],[0,"ic"],[-1,"ly"],[1,"ally gr"],[0," aut"]],"start1":4055,"start2":4055,"length1":13,"length2":17}]],"length":6745,"saved":false}
+{"ts":1353463735438,"patch":[[{"diffs":[[0,"cally gr"],[1,"ow u"],[0," autodep"]],"start1":4060,"start2":4060,"length1":16,"length2":20}]],"length":6749,"saved":false}
+{"ts":1353463736938,"patch":[[{"diffs":[[0,"y grow u"],[1,"p"],[0," autodep"]],"start1":4064,"start2":4064,"length1":16,"length2":17}]],"length":6750,"saved":false}
+{"ts":1353463745261,"patch":[[{"diffs":[[0,"nstances"],[-1," "],[0,"which co"]],"start1":4032,"start2":4032,"length1":17,"length2":16}]],"length":6749,"saved":false}
+{"ts":1353463747413,"patch":[[{"diffs":[[0,"nstances"],[1,". "],[0,"which co"]],"start1":4032,"start2":4032,"length1":16,"length2":18}]],"length":6751,"saved":false}
+{"ts":1353463758268,"patch":[[{"diffs":[[0,"tances. "],[-1,"w"],[1,"W"],[0,"hich cou"]],"start1":4034,"start2":4034,"length1":17,"length2":17}]],"length":6751,"saved":false}
+{"ts":1353463760261,"patch":[[{"diffs":[[0,"tances. "],[-1,"W"],[0,"hich cou"]],"start1":4034,"start2":4034,"length1":17,"length2":16}]],"length":6750,"saved":false}
+{"ts":1353463762478,"patch":[[{"diffs":[[0,"nstances"],[-1,"."],[0," "],[1,"w"],[0,"hich cou"]],"start1":4032,"start2":4032,"length1":18,"length2":18}]],"length":6750,"saved":false}
+{"ts":1353463764044,"patch":[[{"diffs":[[0,"nstances"],[1,","],[0," which c"]],"start1":4032,"start2":4032,"length1":16,"length2":17}]],"length":6751,"saved":false}
+{"ts":1353463796927,"patch":[[{"diffs":[[0,", which "],[1,"size "],[0,"could dr"]],"start1":4040,"start2":4040,"length1":16,"length2":21}]],"length":6756,"saved":false}
+{"ts":1353463808386,"patch":[[{"diffs":[[0,"grow up "],[1,"with "],[0,"autodepl"]],"start1":4072,"start2":4072,"length1":16,"length2":21}]],"length":6761,"saved":false}
+{"ts":1353463822574,"patch":[[{"diffs":[[0,"eployed "],[1," "],[0,"into muc"]],"start1":4090,"start2":4090,"length1":16,"length2":17}]],"length":6762,"saved":false}
+{"ts":1353463826156,"patch":[[{"diffs":[[0,"eployed "],[1,"scenari"],[0," into mu"]],"start1":4090,"start2":4090,"length1":16,"length2":23}]],"length":6769,"saved":false}
+{"ts":1353463827362,"patch":[[{"diffs":[[0," scenari"],[1,"o"],[0," into mu"]],"start1":4097,"start2":4097,"length1":16,"length2":17}]],"length":6770,"saved":false}
+{"ts":1353463829079,"patch":[[{"diffs":[[0,"scenario"],[1,"s"],[0," into mu"]],"start1":4098,"start2":4098,"length1":16,"length2":17}]],"length":6771,"saved":false}
+{"ts":1353463831947,"patch":[[{"diffs":[[0,"rios"],[-1," into much more servers"],[0,". We"]],"start1":4103,"start2":4103,"length1":31,"length2":8}]],"length":6748,"saved":false}
+{"ts":1353463840165,"patch":[[{"diffs":[[0,"acenters"],[1," too"],[0,". If all"]],"start1":4158,"start2":4158,"length1":16,"length2":20}]],"length":6752,"saved":false}
+{"ts":1353463843020,"patch":[[{"diffs":[[0,"rs too. "],[1,"\r\n                \r\n                "],[0,"If all o"]],"start1":4164,"start2":4164,"length1":16,"length2":52}]],"length":6788,"saved":false}
+{"ts":1353463857073,"patch":[[{"diffs":[[0,"hy we ma"],[-1,"k"],[1,"d"],[0,"e paid a"]],"start1":5087,"start2":5087,"length1":17,"length2":17}]],"length":6788,"saved":false}
+{"ts":1353463875285,"patch":[[{"diffs":[[0," The End"],[1," Of Days"],[0,", but eu"]],"start1":5271,"start2":5271,"length1":16,"length2":24}]],"length":6796,"saved":false}
+{"ts":1353463880167,"patch":[[{"diffs":[[0,"ut euros"],[1," and dollars"],[0,". </p>\r\n"]],"start1":5290,"start2":5290,"length1":16,"length2":28}]],"length":6808,"saved":false}
