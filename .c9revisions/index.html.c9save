@@ -302,3 +302,14 @@
 {"ts":1353463857073,"patch":[[{"diffs":[[0,"hy we ma"],[-1,"k"],[1,"d"],[0,"e paid a"]],"start1":5087,"start2":5087,"length1":17,"length2":17}]],"length":6788,"saved":false}
 {"ts":1353463875285,"patch":[[{"diffs":[[0," The End"],[1," Of Days"],[0,", but eu"]],"start1":5271,"start2":5271,"length1":16,"length2":24}]],"length":6796,"saved":false}
 {"ts":1353463880167,"patch":[[{"diffs":[[0,"ut euros"],[1," and dollars"],[0,". </p>\r\n"]],"start1":5290,"start2":5290,"length1":16,"length2":28}]],"length":6808,"saved":false}
+{"contributors":[],"silentsave":true,"ts":1353465564670,"patch":[[{"diffs":[[0," <p>"],[-1,"All"],[1,"We dedi"],[0," our"]],"start1":2273,"start2":2273,"length1":11,"length2":15}]],"length":6812,"saved":false}
+{"ts":1353465566108,"patch":[[{"diffs":[[0,">We dedi"],[1,"cated"],[0," our eff"]],"start1":2276,"start2":2276,"length1":16,"length2":21}]],"length":6817,"saved":false}
+{"ts":1353465569476,"patch":[[{"diffs":[[0,"dicated "],[1,"all "],[0,"our effo"]],"start1":2282,"start2":2282,"length1":16,"length2":20}]],"length":6821,"saved":false}
+{"ts":1353465571640,"patch":[[{"diffs":[[0,"r effort"],[1,"s"],[0," is to p"]],"start1":2296,"start2":2296,"length1":16,"length2":17}]],"length":6822,"saved":false}
+{"ts":1353465596221,"patch":[[{"diffs":[[0,"efforts "],[-1,"is "],[0,"to provi"]],"start1":2298,"start2":2298,"length1":19,"length2":16}]],"length":6819,"saved":false}
+{"ts":1353465637946,"patch":[[{"diffs":[[0,"ovide a "],[1,"unprecedented"],[0,"comforta"]],"start1":2311,"start2":2311,"length1":16,"length2":29}]],"length":6832,"saved":false}
+{"ts":1353465639203,"patch":[[{"diffs":[[0,"cedented"],[1," "],[0,"comforta"]],"start1":2324,"start2":2324,"length1":16,"length2":17}]],"length":6833,"saved":false}
+{"ts":1353465642510,"patch":[[{"diffs":[[0,"provide "],[-1,"a "],[0,"unpreced"]],"start1":2309,"start2":2309,"length1":18,"length2":16},{"diffs":[[0,"cedented"],[1,"a "],[0," comfort"]],"start1":2322,"start2":2322,"length1":16,"length2":18}]],"length":6833,"saved":false}
+{"ts":1353465643544,"patch":[[{"diffs":[[0,"cedented"],[1," "],[0,"a  comfo"]],"start1":2322,"start2":2322,"length1":16,"length2":17}]],"length":6834,"saved":false}
+{"ts":1353465644514,"patch":[[{"diffs":[[0,"ented a "],[-1," "],[0,"comforta"]],"start1":2325,"start2":2325,"length1":17,"length2":16}]],"length":6833,"saved":false}
+{"ts":1353465661489,"patch":[[{"diffs":[[0,"              \r\n"],[1,"                \r\n"],[0,"                "]],"start1":2413,"start2":2413,"length1":32,"length2":50}]],"length":6851,"saved":false}
