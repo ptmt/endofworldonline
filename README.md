@@ -5,8 +5,8 @@ Be Ready!
 
 Fake site for learning.
 
--no jquery at all
+- no jquery at all
 
--css3 trick for image transitions
+- css3 trick for image transitions
 
--simple responsive
+- simple responsive
